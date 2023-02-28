@@ -7,4 +7,5 @@
 - hesap silme
 - veritabanındaki diğer hesaplara erişme
 
-
+                                
+                                :)
